@@ -1,5 +1,5 @@
 # 💫 About Me:
-Juniior Programmer dengan 2+ tahun pengalaman menggunakan PHP dan Javascript untuk mengembangkan, menguji dan mengamati aplikasi software perusahaan. <br>Telah mendesain dan mengembangkan lebih dari 10 aplikasi 
+Junior Programmer dengan 2+ tahun pengalaman menggunakan PHP dan Javascript untuk mengembangkan, menguji dan mengamati aplikasi software perusahaan. <br>Telah mendesain dan mengembangkan lebih dari 10 aplikasi 
 
 
 ## 🌐 Socials:
